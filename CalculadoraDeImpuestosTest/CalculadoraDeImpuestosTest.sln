@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraDeImpuestosTest", "CalculadoraDeImpuestosTest\CalculadoraDeImpuestosTest.csproj", "{B2924214-9D10-4595-9EAA-F3BF0ADE69CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{84713C42-604E-4D61-8FE9-81D73563ED06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2924214-9D10-4595-9EAA-F3BF0ADE69CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2924214-9D10-4595-9EAA-F3BF0ADE69CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2924214-9D10-4595-9EAA-F3BF0ADE69CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2924214-9D10-4595-9EAA-F3BF0ADE69CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84713C42-604E-4D61-8FE9-81D73563ED06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84713C42-604E-4D61-8FE9-81D73563ED06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84713C42-604E-4D61-8FE9-81D73563ED06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84713C42-604E-4D61-8FE9-81D73563ED06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD22C35D-3262-40C2-A61F-D8C8AFF0642B}
+	EndGlobalSection
+EndGlobal
